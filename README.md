@@ -2,11 +2,14 @@
 Below is for the documentation needed for WP and sticky.io
 
 
-# Product Name Change
-### In order to change a prodcut name on the Checkout page you do the following:
+# Product Name Change in Checkout
+### In order to change a product name on the Checkout page you do the following:
 (Im using the following DR site as an example. This can be used for all of them the same way)
 
 Navigate to tacticalindependence.com/wp-admin
+
+Video here showing how to change a product name for Checkout
+[Video to change the Checkout Product title](https://drive.google.com/file/d/1g1gkfHLh5qMV1tptCrZSSVWbxKA5ip-m/view)
 
 Click on Checkout Forms like below:
 
@@ -25,3 +28,14 @@ I added a couple exclamation marks to make sure it changed.
 ![changed](https://user-images.githubusercontent.com/86316537/147606300-c2f24f04-83ac-48d3-bdc7-19faed1458f2.png)
 
 Success.
+
+
+# Product Name Change in Offer Pages
+### In order to change a product name on the Offer page you do the following:
+(Im using the following DR site as an example. This can be used for all of them the same way)
+
+Navigate to tacticalindependence.com/wp-admin
+
+Use the following video to change the Offer page name
+
+[Video to change the Offer Product title](https://drive.google.com/file/d/10diAUSnJXJZynAGi7CMeTI0pHJ-jT4Rh/view)
