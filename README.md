@@ -27,7 +27,6 @@ I added a couple exclamation marks to make sure it changed.
 
 ![changed](https://user-images.githubusercontent.com/86316537/147606300-c2f24f04-83ac-48d3-bdc7-19faed1458f2.png)
 
-Success.
 
 
 # Product Name Change in Offer Pages
