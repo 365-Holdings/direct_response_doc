@@ -8,8 +8,8 @@ Below is for the documentation needed for WP and sticky.io
 
 Navigate to tacticalindependence.com/wp-admin
 
-Video here showing how to change a product name for Checkout
-[Video to change the Checkout Product title](https://drive.google.com/file/d/1g1gkfHLh5qMV1tptCrZSSVWbxKA5ip-m/view)
+
+## [Video to change the Checkout Product title](https://drive.google.com/file/d/1g1gkfHLh5qMV1tptCrZSSVWbxKA5ip-m/view)
 
 Click on Checkout Forms like below:
 
@@ -38,4 +38,12 @@ Navigate to tacticalindependence.com/wp-admin
 
 Use the following video to change the Offer page name
 
-[Video to change the Offer Product title](https://drive.google.com/file/d/10diAUSnJXJZynAGi7CMeTI0pHJ-jT4Rh/view)
+## [Video to change the Offer Product title](https://drive.google.com/file/d/10diAUSnJXJZynAGi7CMeTI0pHJ-jT4Rh/view)
+
+# Change the Static language in the Order Summary.
+
+The following video will show you how to change the Order Summary language for the Money-back guarantee and the text box below it.
+
+![2022-01-04 11_36_59-FREE_ Steel River Karambit – Tactical Independence](https://user-images.githubusercontent.com/86316537/148094552-7d11aaec-91a4-4d50-a833-43771adf112a.png)
+
+## [Video to change the Static Language in the Order Summary](https://drive.google.com/file/d/15gryb_GyA6wkNeH4oAekgSEQejnB2dTK/view)
