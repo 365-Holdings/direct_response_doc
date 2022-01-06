@@ -46,6 +46,6 @@ The following video will show you how to change the Order Summary language for t
 ![2022-01-04 11_36_59-FREE_ Steel River Karambit – Tactical Independence](https://user-images.githubusercontent.com/86316537/148094552-7d11aaec-91a4-4d50-a833-43771adf112a.png)
 
 ## [Video to change the Static Language in the Order Summary](https://drive.google.com/file/d/15gryb_GyA6wkNeH4oAekgSEQejnB2dTK/view)
-This will only change the text for NEW PAGES. Every old offer page made, the text body will need to be changed manually. The following video demonstrates the manual change.
+This will only change the text for NEW PAGES. For every old offer page, the text body will need to be changed manually. The following video demonstrates the manual change.
 
 ## [Video to change the Static Language manually for an individual page](https://drive.google.com/file/d/1nq4LTAMiidbS4XBikxTBLtMfgkC7Peqr/view)
